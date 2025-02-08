@@ -1,5 +1,6 @@
 # CasoPractico-Tableau
 En el siguiente se muestra un dashboard con base en un análisis de los datos de los empleados de la compañía SRL.
+
 A partir de los datos personales de los empleados de la compañía SRL recabados y organizados en una hoja de excel, tales como:
 - Por género;
 - Por fecha de contratación y fecha finalización;
